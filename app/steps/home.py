@@ -15,7 +15,7 @@ ROLE_LABELS = {
 
 
 def render(next_page):
-    st.title("CEADS — counterpart selector")
+    st.title("Data-Sharing Matchmaker")
     st.caption("Mapping the potential for agricultural data-sharing across Europe.")
 
     st.header("Who are you?")
