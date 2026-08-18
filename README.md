@@ -1,4 +1,4 @@
-# CEADS counterpart selector
+# Matchmaker
 
 Two small Streamlit apps for mapping the potential for agricultural
 data-sharing across Europe: respondents describe themselves (data provider,
