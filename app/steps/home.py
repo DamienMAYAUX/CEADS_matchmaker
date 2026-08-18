@@ -8,8 +8,8 @@ entry-point script just tells this step which page to link to next.
 import streamlit as st
 
 ROLE_LABELS = {
-    "provider": "Data provider — I store data and I am making it accessible",
-    "consumer": "Data consumer — I can use data others hold",
+    "provider": "Data provider — I own or store data and I can make it accessible",
+    "consumer": "Data consumer — I need or use data",
     "intermediary": "Data intermediary — I connect data providers and data consumers",
 }
 

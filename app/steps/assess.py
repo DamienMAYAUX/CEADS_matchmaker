@@ -52,6 +52,7 @@ def _new_candidate(role):
 def _reset_candidate(role):
     st.session_state["candidate"] = _new_candidate(role)
     st.session_state["candidate_seq"] = st.session_state.get("candidate_seq", 0) + 1
+    st.toast("New candidate proposed", icon="🔄")
 
 
 def _record(candidate, quantity):
@@ -194,4 +195,4 @@ def render():
                         item["quantity"] = picked
 
         payload = build_assessment_payload(role, self_profile, assessed)
-        download_json_button(payload, filename=build_export_filename("assess"), label="Download assessments (JSON)")
+        download_json_button(payload, filename=build_export_filename("assess"))

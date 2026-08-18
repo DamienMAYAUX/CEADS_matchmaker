@@ -85,12 +85,14 @@ def build_export_filename(app_name):
     return f"{app_name}_{org}_{timestamp}.json"
 
 
-def download_json_button(payload, filename="ceads_selection.json", label="Download selection (JSON)"):
+def download_json_button(payload, filename="ceads_selection.json", label="Download Results"):
     st.download_button(
         label,
         data=json.dumps(payload, ensure_ascii=False, indent=2),
         file_name=filename,
         mime="application/json",
+        type="primary",
+        use_container_width=True,
     )
 
 
