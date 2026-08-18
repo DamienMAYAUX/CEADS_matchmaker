@@ -1,0 +1,123 @@
+# NUTS -- Nomenclature of Territorial Units for Statistics, country list + NUTS-1 level.
+# Source: Eurostat, https://ec.europa.eu/eurostat/web/nuts/correspondence-tables
+# Reformatted subset for this app (country codes/names + their NUTS-1 regions),
+# not a verbatim export of the official correspondence table.
+level,code,name,country_code
+country,AT,Austria,AT
+country,BE,Belgium,BE
+country,BG,Bulgaria,BG
+country,CY,Cyprus,CY
+country,CZ,Czechia,CZ
+country,DE,Germany,DE
+country,DK,Denmark,DK
+country,EE,Estonia,EE
+country,EL,Greece,EL
+country,ES,Spain,ES
+country,FI,Finland,FI
+country,FR,France,FR
+country,HR,Croatia,HR
+country,HU,Hungary,HU
+country,IE,Ireland,IE
+country,IT,Italy,IT
+country,LT,Lithuania,LT
+country,LU,Luxembourg,LU
+country,LV,Latvia,LV
+country,MT,Malta,MT
+country,NL,Netherlands,NL
+country,PL,Poland,PL
+country,PT,Portugal,PT
+country,RO,Romania,RO
+country,SE,Sweden,SE
+country,SI,Slovenia,SI
+country,SK,Slovakia,SK
+nuts1,AT1,Ostösterreich,AT
+nuts1,AT2,Südösterreich,AT
+nuts1,AT3,Westösterreich,AT
+nuts1,BE1,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,BE
+nuts1,BE2,Vlaams Gewest,BE
+nuts1,BE3,Région wallonne,BE
+nuts1,BG5,БЪЛГАРИЯ,BG
+nuts1,CY0,Κύπρος,CY
+nuts1,CZ0,Česko,CZ
+nuts1,DE1,Baden-Württemberg,DE
+nuts1,DE2,Bayern,DE
+nuts1,DE3,Berlin,DE
+nuts1,DE4,Brandenburg,DE
+nuts1,DE5,Bremen,DE
+nuts1,DE6,Hamburg,DE
+nuts1,DE7,Hessen,DE
+nuts1,DE8,Mecklenburg-Vorpommern,DE
+nuts1,DE9,Niedersachsen,DE
+nuts1,DEA,Nordrhein-Westfalen,DE
+nuts1,DEB,Rheinland-Pfalz,DE
+nuts1,DEC,Saarland,DE
+nuts1,DED,Sachsen,DE
+nuts1,DEE,Sachsen-Anhalt,DE
+nuts1,DEF,Schleswig-Holstein,DE
+nuts1,DEG,Thüringen,DE
+nuts1,DK0,Danmark,DK
+nuts1,EE0,Eesti,EE
+nuts1,EL3,Αττική ,EL
+nuts1,EL4,"Νησιά Αιγαίου, Κρήτη",EL
+nuts1,EL5,Βόρεια Ελλάδα,EL
+nuts1,EL6,Κεντρική Ελλάδα,EL
+nuts1,ES1,Noroeste,ES
+nuts1,ES2,Noreste,ES
+nuts1,ES3,Comunidad de Madrid,ES
+nuts1,ES4,Centro (ES),ES
+nuts1,ES5,Este,ES
+nuts1,ES6,Sur,ES
+nuts1,ES7,Canarias,ES
+nuts1,FI1,Manner-Suomi,FI
+nuts1,FI2,Åland,FI
+nuts1,FR1,Ile-de-France,FR
+nuts1,FRB,Centre — Val de Loire,FR
+nuts1,FRC,Bourgogne-Franche-Comté,FR
+nuts1,FRD,Normandie,FR
+nuts1,FRE,Hauts-de-France,FR
+nuts1,FRF,Grand Est,FR
+nuts1,FRG,Pays de la Loire,FR
+nuts1,FRH,Bretagne,FR
+nuts1,FRI,Nouvelle-Aquitaine,FR
+nuts1,FRJ,Occitanie,FR
+nuts1,FRK,Auvergne-Rhône-Alpes,FR
+nuts1,FRL,Provence-Alpes-Côte d’Azur,FR
+nuts1,FRM,Corse,FR
+nuts1,FRY,RUP FR — Régions Ultrapériphériques Françaises,FR
+nuts1,HR0,Hrvatska,HR
+nuts1,HU1,Közép-Magyarország,HU
+nuts1,HU2,Dunántúl,HU
+nuts1,HU3,Alföld és Észak,HU
+nuts1,IE0,Ireland,IE
+nuts1,ITC,Nord-Ovest,IT
+nuts1,ITF,Sud,IT
+nuts1,ITG,Isole,IT
+nuts1,ITH,Nord-Est,IT
+nuts1,ITI,Centro (IT),IT
+nuts1,LT0,Lietuva,LT
+nuts1,LU0,Luxembourg,LU
+nuts1,LV0,Latvija,LV
+nuts1,MT0,Malta,MT
+nuts1,NL1,Noord-Nederland,NL
+nuts1,NL2,Oost-Nederland,NL
+nuts1,NL3,West-Nederland,NL
+nuts1,NL4,Zuid-Nederland,NL
+nuts1,PL2,Makroregion południowy,PL
+nuts1,PL4,Makroregion północno-zachodni,PL
+nuts1,PL5,Makroregion południowo-zachodni,PL
+nuts1,PL6,Makroregion północny,PL
+nuts1,PL7,Makroregion centralny,PL
+nuts1,PL8,Makroregion wschodni,PL
+nuts1,PL9,Makroregion województwo mazowieckie,PL
+nuts1,PT1,Continente,PT
+nuts1,PT2,Região Autónoma dos Açores,PT
+nuts1,PT3,Região Autónoma da Madeira,PT
+nuts1,RO1,Macroregiunea Unu,RO
+nuts1,RO2,Macroregiunea Doi,RO
+nuts1,RO3,Macroregiunea Trei,RO
+nuts1,RO4,Macroregiunea Patru,RO
+nuts1,SE1,Östra Sverige,SE
+nuts1,SE2,Södra Sverige,SE
+nuts1,SE3,Norra Sverige,SE
+nuts1,SI0,Slovenija,SI
+nuts1,SK0,Slovensko,SK
